@@ -1,0 +1,110 @@
+body {
+    margin: auto;
+    padding: auto;
+
+}
+.jumbotron{
+    margin:0px 0px 0px 0px;
+      background: 
+  linear-gradient(
+    rgba(0, 0, 250, 0.25), 
+    rgba(125, 250, 250, 0.45)
+  ),
+  url(images/contactpagebg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color:white !important;
+  height:150px;
+  }
+
+  .display-2 {
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 4px 4px black;
+
+    
+}
+
+.row {
+    margin: auto;
+    padding: auto;
+}
+.team {
+    margin: auto;
+    
+}
+h4 {
+    margin: 20px;
+    padding: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.212);
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.377);
+   
+}
+
+.container {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container p {
+    text-align:center;
+    color: black;  
+}
+
+.gallery {
+    background-color: rgba(235, 238, 230, 0.39);
+
+}
+    
+.chris {
+    border-radius: 50%;
+    border: 4px solid rgba(19, 40, 238, 0.589);
+    float:left;
+    margin: 10px;
+    
+}
+
+
+
+.moises {
+    border-radius: 50%;
+    border: 4px solid rgba(19, 40, 238, 0.589);
+    float:left;
+    margin: 10px;
+}
+ 
+.shayma {
+    border-radius: 50%;
+    border: 4px solid rgba(19, 40, 238, 0.589);
+    float:left;
+    margin: 10px;
+
+}
+
+.jeff {
+    border-radius: 50%;
+    border: 4px solid rgba(19, 40, 238, 0.589);
+    float:left;
+    margin: 10px;
+
+}
+
+ h3 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 1px;
+    background-color: #04243B;
+  }
+  .footer p {
+      color: white;
+  }

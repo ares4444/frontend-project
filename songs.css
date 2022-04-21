@@ -1,0 +1,70 @@
+.card-img-top {
+    border-radius: 20px;
+}
+
+.card {
+    /* margin: 30px; */
+    border-radius: 20px;
+    box-shadow: 2px 4px darkgrey;
+}
+
+#results {
+   float: left;
+   width: 50%;
+   margin-left: 30px;
+}
+
+#songTitle {
+    text-align: center;
+}
+
+#geniusApi {
+    margin-right: 40px;
+}
+
+.songH1 {
+    font-weight: 500;
+    text-shadow: 4px 4px #000000;
+    margin-top: 80px;
+}
+
+
+.music-container.col-md-4 {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    }
+
+
+#results.row {
+display: flex;
+position: relative;
+width: 100%;
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;   
+
+}
+
+#accordionBtn {
+    border-radius: 5px;
+    width: 240px;
+    padding: auto;
+    margin: auto;    
+}
+
+.card {
+width: 250px;
+box-shadow: 0 4px 8px 0 rgba(169, 12, 201, 0.288), 0 6px 20px 0 rgba(169, 12, 201, 0.288);
+text-align: center;
+margin-top: 20px;
+}
+
+.accordion-item {
+    padding: 0 18px;
+    background-color: transparent;
+  }
+
+  
+  
